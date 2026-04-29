@@ -8,7 +8,7 @@ set -e
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 export HOME="/Users/yuichisaito"
 
-PROJECT_DIR="/Users/yuichisaito/Desktop/content-factory"
+PROJECT_DIR="/Users/yuichisaito/content-factory"
 LOG_DIR="$PROJECT_DIR/logs"
 TODAY=$(date +%Y-%m-%d)
 
