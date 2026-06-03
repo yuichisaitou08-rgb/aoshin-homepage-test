@@ -160,9 +160,13 @@ A. 症状の状態と医師の判断で個別に決めます。学校・園・�
 
 ## 内部リンク候補
 
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
-- [気管支炎と肺炎の違い：見分け方と受診目安](bronchitis-vs-pneumonia-difference)
-- [発熱外来は何度から受診すべき？目安と注意点](when-to-visit-fever-clinic)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
+- [気管支炎と肺炎の違いは？見分け方と受診の目安](https://aoshin.net/column/bronchitis-vs-pneumonia-difference/)
+- [発熱外来は何度から受診すべき？目安と注意点](https://aoshin.net/column/when-to-visit-fever-clinic/)
 
 ---
 

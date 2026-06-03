@@ -148,9 +148,13 @@ A. 妊娠中こそ喘息のコントロールを保つことが大切とされ�
 
 ## 内部リンク候補
 
-- [咳喘息とは？普通の喘息との違いと治療の考え方](cough-variant-asthma)
-- [大人になってから喘息と診断された：治療の流れ](adult-onset-asthma-treatment-flow)
-- [喘息の吸入ステロイドは続ける？やめるタイミング](inhaled-steroid-asthma-continuation)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [咳喘息とは？普通の喘息との違いと治療の考え方](https://aoshin.net/column/cough-variant-asthma/)
+- [大人になってから喘息と診断されたら？治療の流れ](https://aoshin.net/column/adult-onset-asthma-treatment-flow/)
+- [喘息の吸入ステロイドは続ける？やめるタイミングの考え方](https://aoshin.net/column/inhaled-steroid-asthma-continuation/)
 
 ---
 

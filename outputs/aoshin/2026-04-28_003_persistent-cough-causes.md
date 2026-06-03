@@ -179,11 +179,15 @@ A. お子さんでも、長引く咳に咳喘息やアレルギーが関わる�
 
 ## 内部リンク候補
 
-- [咳喘息とは？普通の喘息との違いと治療](cough-variant-asthma)
-- [夜だけ咳が出るのはなぜ？夜間の咳の原因](night-cough-causes)
-- [アレルギー性の咳と感染による咳の見分け方](allergic-vs-infectious-cough)
-- [痰がからむ咳が続くときに考えられること](phlegm-cough-persistent-causes)
-- [喫煙者の咳とCOPDの初期サイン](smoking-cough-copd-warning-signs)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [咳喘息とは？普通の喘息との違いと治療の考え方](https://aoshin.net/column/cough-variant-asthma/)
+- [夜だけ咳が出て眠れないのはなぜ？原因と受診の目安](https://aoshin.net/column/night-cough-causes/)
+- [アレルギーの咳と風邪の咳の見分け方は？](https://aoshin.net/column/allergic-vs-infectious-cough/)
+- [痰がからむ咳が続くときは？原因と受診の目安](https://aoshin.net/column/phlegm-cough-persistent-causes/)
+- [タバコを吸う人の長引く咳は？COPDのサインを考える目安](https://aoshin.net/column/smoking-cough-copd-warning-signs/)
 
 ---
 

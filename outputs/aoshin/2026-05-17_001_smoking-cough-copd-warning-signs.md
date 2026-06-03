@@ -165,9 +165,13 @@ A. 加熱式タバコでも有害物質の摂取はゼロにはならず、長�
 
 ## 内部リンク候補
 
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
-- [痰がからむ咳が続くときは？原因と受診の目安](phlegm-cough-persistent-causes)
-- [気管支炎と肺炎の違い｜見分け方と受診の目安](bronchitis-vs-pneumonia-difference)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
+- [痰がからむ咳が続くときは？原因と受診の目安](https://aoshin.net/column/phlegm-cough-persistent-causes/)
+- [気管支炎と肺炎の違いは？見分け方と受診の目安](https://aoshin.net/column/bronchitis-vs-pneumonia-difference/)
 
 ---
 

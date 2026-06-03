@@ -156,9 +156,13 @@ A. お子さんの場合、感染を繰り返している期間として咳が�
 
 ## 内部リンク候補
 
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
-- [咳喘息とは？普通の喘息との違いと治療](cough-variant-asthma)
-- [通年性アレルギー性鼻炎の対処｜花粉症との違いと向き合い方](perennial-allergic-rhinitis)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
+- [咳喘息とは？普通の喘息との違いと治療の考え方](https://aoshin.net/column/cough-variant-asthma/)
+- [通年性アレルギー性鼻炎の対処｜花粉症との違い](https://aoshin.net/column/perennial-allergic-rhinitis/)
 
 ---
 

@@ -158,9 +158,13 @@ A. 吸入手技は効果に直結します。受診時に実際に吸ってみ�
 
 ## 内部リンク候補
 
-- [咳喘息とは？普通の喘息との違いと治療](cough-variant-asthma)
-- [喘息の発作を防ぐために普段から気をつけること](asthma-attack-prevention)
-- [喘息の吸入ステロイドは続ける？やめるタイミング](inhaled-steroid-asthma-continuation)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [咳喘息とは？普通の喘息との違いと治療の考え方](https://aoshin.net/column/cough-variant-asthma/)
+- [喘息の発作を防ぐには？普段から気をつけたいこと](https://aoshin.net/column/asthma-attack-prevention/)
+- [喘息の吸入ステロイドは続ける？やめるタイミングの考え方](https://aoshin.net/column/inhaled-steroid-asthma-continuation/)
 
 ---
 

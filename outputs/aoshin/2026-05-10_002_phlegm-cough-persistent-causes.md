@@ -151,9 +151,13 @@ A. まずは内科・呼吸器内科が相談先です。当院では内科・�
 
 ## 内部リンク候補
 
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
-- [気管支炎と肺炎の違い：見分け方と受診目安](bronchitis-vs-pneumonia-difference)
-- [マイコプラズマ肺炎の症状と治療期間](mycoplasma-pneumonia-symptoms-treatment)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
+- [気管支炎と肺炎の違いは？見分け方と受診の目安](https://aoshin.net/column/bronchitis-vs-pneumonia-difference/)
+- [マイコプラズマ肺炎の症状と治療期間は？](https://aoshin.net/column/mycoplasma-pneumonia-symptoms-treatment/)
 
 ---
 

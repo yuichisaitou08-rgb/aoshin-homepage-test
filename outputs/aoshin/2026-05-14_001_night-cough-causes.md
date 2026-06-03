@@ -163,9 +163,13 @@ A. 基本的な考え方は近いですが、年齢に応じた評価が必要�
 
 ## 内部リンク候補
 
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
-- [咳喘息とは？普通の喘息との違いと治療](cough-variant-asthma)
-- [アレルギーの咳と風邪の咳の見分け方](allergic-vs-infectious-cough)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
+- [咳喘息とは？普通の喘息との違いと治療の考え方](https://aoshin.net/column/cough-variant-asthma/)
+- [アレルギーの咳と風邪の咳の見分け方は？](https://aoshin.net/column/allergic-vs-infectious-cough/)
 
 ---
 

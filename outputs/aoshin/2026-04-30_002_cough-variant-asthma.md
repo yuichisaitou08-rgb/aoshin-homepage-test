@@ -162,9 +162,13 @@ A. お子さんでも、長引く咳が咳喘息に近い病態であること�
 
 ## 内部リンク候補
 
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
-- [喘息の発作を防ぐために普段から気をつけること](asthma-attack-prevention)
-- [夜だけ咳が出て眠れないのはなぜ？](night-cough-causes)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
+- [喘息の発作を防ぐには？普段から気をつけたいこと](https://aoshin.net/column/asthma-attack-prevention/)
+- [夜だけ咳が出て眠れないのはなぜ？原因と受診の目安](https://aoshin.net/column/night-cough-causes/)
 
 ---
 

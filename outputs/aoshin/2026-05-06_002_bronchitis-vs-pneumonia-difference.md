@@ -157,9 +157,13 @@ A. 感染後に咳が数週間残ることはよくあります。ただし、�
 
 ## 内部リンク候補
 
-- [痰がからむ咳が続くときは？原因と受診の目安](phlegm-cough-persistent-causes)
-- [マイコプラズマ肺炎の症状と治療期間](mycoplasma-pneumonia-symptoms-treatment)
-- [長引く咳が2週間以上続くときは？原因と受診の目安](persistent-cough-causes)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [痰がからむ咳が続くときは？原因と受診の目安](https://aoshin.net/column/phlegm-cough-persistent-causes/)
+- [マイコプラズマ肺炎の症状と治療期間は？](https://aoshin.net/column/mycoplasma-pneumonia-symptoms-treatment/)
+- [長引く咳が2週間以上続くときは？原因と受診の目安](https://aoshin.net/column/persistent-cough-causes/)
 
 ---
 

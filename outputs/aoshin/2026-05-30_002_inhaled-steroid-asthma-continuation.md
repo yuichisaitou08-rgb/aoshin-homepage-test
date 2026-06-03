@@ -146,9 +146,13 @@ A. 風邪は喘息発作の引き金になりやすいきっかけのひとつ�
 
 ## 内部リンク候補
 
-- [喘息の発作を防ぐために普段から気をつけること](asthma-attack-prevention)
-- [大人になってから喘息と診断された：治療の流れ](adult-onset-asthma-treatment-flow)
-- [咳喘息とは？普通の喘息との違いと治療](cough-variant-asthma)
+**メイン固定ページ：**
+- [咳・喘息でお悩みの方へ（総合案内ページ）](https://aoshin.net/cough-asthma/)
+
+**関連記事：**
+- [喘息の発作を防ぐには？普段から気をつけたいこと](https://aoshin.net/column/asthma-attack-prevention/)
+- [大人になってから喘息と診断されたら？治療の流れ](https://aoshin.net/column/adult-onset-asthma-treatment-flow/)
+- [咳喘息とは？普通の喘息との違いと治療の考え方](https://aoshin.net/column/cough-variant-asthma/)
 
 ---
 
